@@ -1,2 +1,2 @@
 # dotfilesandsuch
-dot files and such
+Dot files and such
